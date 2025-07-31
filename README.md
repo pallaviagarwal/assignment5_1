@@ -19,3 +19,8 @@ Analysis outcomes
 5. Use the same process to compare the acceptance rate between drivers who go to bars more than once a month and had passengers that were not a kid and had occupations other than farming, fishing, or forestry.
 6. More than 3 times visitor to bar accepted coupon and with no kids count:  833
 7. More than 3 times visitor to bar accepted coupon and with not having occupation Farming et al:  858
+
+Future work
+-----------
+1. analyze how acceptance change with various categorical features - age, gender, temperature etc
+2. predict acceptance with a new sample data.
